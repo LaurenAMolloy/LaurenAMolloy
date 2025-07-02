@@ -9,7 +9,7 @@ I started coding with my students while I was working in education. Since leavin
 * 🌍  I'm based in Cyprus
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on any projects using React
-* ⚡  I am passionate about animal welfare and education
+  
 
 ### Skills
 
