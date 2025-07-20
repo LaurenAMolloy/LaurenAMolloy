@@ -1,36 +1,47 @@
-Hi 👋 My name is Lauren Molloy
+![Header] (Yellow and Blue Bold Geometric Software Developer LinkedIn Banner.png )
+
+Hi 👋 Welcome to my Github
+==============================
+My name is Lauren Molloy
 ==============================
 
-.Developer.Coder.From Teaching to Tech
--------------------------
+<p>I started coding with my students while I was working in education. I started my career change into software development and have't looked back since. It has not always been easy, but it amazing what you can do with a bit of passion, alot and grit and a growth mindset! </p>
 
-I started coding with my students while I was working in education. Since leaving education I am now dedicating my time to pursing a role in tech as a web developer.
-
+### About me
 * 🌍  I'm based in Cyprus
-* 🧠  I'm learning React
+* ❤️  I love progarmming and coding
+* 👩‍🏫  I am passionate about teaching and learning
+* 🧠  I'm currently focused on web development using JavaScript and React
 * 🤝  I'm open to collaborating on any projects using React
   
+### Technologies 
 
-### Skills
+## 🧰 Version Control
 
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<p>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"
+ alt="VSCODE" width="40" />
 </p>
 
+
+## 🔨 Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"
+ alt="VSCODE" width="40" />
+</p>
+
+## 🌐 Web Dev
+
+<p>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" width="40" />
+</p>
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/LaurenAMolloy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lauren-m-a9b63252/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/LaurenAMolloy"><img src="https://github-readme-stats.vercel.app/api?username=LaurenAMolloy&show_icons=true&hide=prs,contribs&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="LaurenAMolloy's GitHub stats" /></a>
-
-<a href="http://www.github.com/LaurenAMolloy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LaurenAMolloy&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/LaurenAMolloy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=LaurenAMolloy&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/LaurenAMolloy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenAMolloy&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
