@@ -1,4 +1,4 @@
-![Header] (Yellow and Blue Bold Geometric Software Developer LinkedIn Banner.png )
+![Header](banner.png)
 
 Hi 👋 Welcome to my Github
 ==============================
