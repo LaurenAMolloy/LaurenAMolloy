@@ -1,7 +1,7 @@
 Hi 👋 My name is Lauren Molloy
 ==============================
 
-.Developer.Coder.
+.Developer.Coder.From Teaching to Tech
 -------------------------
 
 I started coding with my students while I was working in education. Since leaving education I am now dedicating my time to pursing a role in tech as a web developer.
