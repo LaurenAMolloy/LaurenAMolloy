@@ -5,8 +5,6 @@ Hi 👋 Welcome to my Github
 My name is Lauren Molloy
 ==============================
 
-<p>I started coding with my students while I was working in education. I started my career change into software development in 2023 and haven't looked back since. It has not always been easy, but it amazing what you can do with a bit of passion, alot of grit and a growth mindset! </p>
-
 ### About me
 * 🌍  I'm based in Cyprus
 * ❤️  I love progarmming and coding
