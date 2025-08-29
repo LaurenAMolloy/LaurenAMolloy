@@ -7,7 +7,7 @@ My name is Lauren Molloy
 
 ### About me
 * 🌍  I'm based in Cyprus
-* ❤️  I love progarmming and coding
+* ❤️  I love programming and coding
 * 👩‍🏫  I am passionate about teaching and learning
 * 🧠  I'm currently focused on web development using JavaScript and React
 * 🤝  I'm open to collaborating on any projects using React
