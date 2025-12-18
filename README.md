@@ -5,13 +5,37 @@ Hi 👋 Welcome to my Github
 My name is Lauren Molloy
 ==============================
 
+## [About Me](#about-me)
+## [Coding Concepts Explained](#coding-concepts-explained)
+## [Technologies](#technologies)
+
 ### About me
 * 🌍  I'm based in Cyprus
 * ❤️  I love programming and coding
-* 👩‍🏫  I am passionate about teaching and learning
+* 👩‍🏫  I am passionate about teaching and learning and love talking about coding concepts
 * 🧠  I'm currently focused on web development using JavaScript and React
 * 🤝  I'm open to collaborating on any projects using React
-  
+
+### Coding Concepts Explained
+
+
+https://github.com/user-attachments/assets/10e9e9b7-46bb-4fcb-9862-874ab71c63bb
+
+
+
+https://github.com/user-attachments/assets/26d2b92b-1daa-480a-99cc-15c2ec6a3050
+
+
+
+https://github.com/user-attachments/assets/c8f45e3c-3ea7-44bc-b8bd-f0d98e1f5aaf
+
+
+
+
+https://github.com/user-attachments/assets/c0d2b933-31e7-4b04-9b98-1c344d4a5634
+
+
+
 ### Technologies 
 
 ## 🧰 Version Control
