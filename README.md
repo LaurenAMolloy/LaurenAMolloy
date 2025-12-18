@@ -5,9 +5,9 @@ Hi 👋 Welcome to my Github
 My name is Lauren Molloy
 ==============================
 
-## [About Me](#about-me)
-## [Coding Concepts Explained](#coding-concepts-explained)
-## [Technologies](#technologies)
+## [Section `About Me`](#about-me)
+## [Section `Coding Concepts Explained`](#coding-concepts-explained)
+## [Section `Technologies`](#technologies)
 
 <a id="about-me"></a>
 ### About me
