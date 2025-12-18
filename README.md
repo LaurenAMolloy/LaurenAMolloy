@@ -9,6 +9,7 @@ My name is Lauren Molloy
 ## [Coding Concepts Explained](#coding-concepts-explained)
 ## [Technologies](#technologies)
 
+<a id="about-me"></a>
 ### About me
 * 🌍  I'm based in Cyprus
 * ❤️  I love programming and coding
@@ -16,6 +17,8 @@ My name is Lauren Molloy
 * 🧠  I'm currently focused on web development using JavaScript and React
 * 🤝  I'm open to collaborating on any projects using React
 
+
+<a id="coding-concepts-explained"></a>
 ### Coding Concepts Explained
 
 
@@ -35,7 +38,7 @@ https://github.com/user-attachments/assets/c8f45e3c-3ea7-44bc-b8bd-f0d98e1f5aaf
 https://github.com/user-attachments/assets/c0d2b933-31e7-4b04-9b98-1c344d4a5634
 
 
-
+<a id="technologies"></a>
 ### Technologies 
 
 ## 🧰 Version Control
