@@ -1,4 +1,4 @@
-![Header](banner.png)
+![Header](newbanner.png)
 
 Hi 👋 Welcome to my Github
 ==============================
