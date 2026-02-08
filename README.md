@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="newbanner2.png" width="100%" />
-</p>
-
 Hi 👋 Welcome to my Github
 ==============================
 My name is Lauren Molloy
